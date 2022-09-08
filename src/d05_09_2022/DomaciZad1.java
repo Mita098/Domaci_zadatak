@@ -22,7 +22,6 @@ package d05_09_2022;
 //U glavnom programu kreirati jednog magacionera i jednog menadzera, postaviti sektore u kojima rade i ispisati platu za svakog
 
 
-
 public class DomaciZad1 {
 
 	public static void main(String[] args) {
