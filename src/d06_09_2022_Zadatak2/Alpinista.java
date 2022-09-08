@@ -1,4 +1,4 @@
-package d26_08_2022_Zadatak2;
+package d06_09_2022_Zadatak2;
 
 public class Alpinista extends Planinar{
 

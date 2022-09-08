@@ -1,4 +1,4 @@
-package d26_08_2022_Zadatak2;
+package d06_09_2022_Zadatak2;
 //Zadatak (za vezbanje)
 //(10 poena) Kreirati klasu ​Planina ​koja od privatnih atributa ima: 
 //ime planine 
